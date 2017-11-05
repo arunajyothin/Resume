@@ -1,0 +1,13 @@
+﻿h1,h2 {
+    text-align: center;
+}
+a {
+    color: #cc0000;
+}
+
+.surround {
+    border: solid;
+}
+.table {
+    margin-bottom: 0px !important;
+}
